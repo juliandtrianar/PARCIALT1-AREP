@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # PARCIALT1-AREP
-=======
+
 # TALLER DE VERIFICACIÓN DE CONOCIMIENTOS TÉCNICOS
 
 ## Iniciando 
@@ -35,4 +34,4 @@ Ingrese a la siguiente dirección:
 
 http://localhost:35001/compreflex=bbl(5,3,8,4,2)
 http://localhost:35001/compreflex=sin(1.5)
->>>>>>> 47d52a1 (Primer commit - Subiendo proyecto)
+
